@@ -18,7 +18,7 @@ Then do
 2) mvn -v
 
 3) First untar the file using below command
-    ## tar -cvzf LobCodingChallenge.tar.gz
+    ## tar -xvf LobCodingChallenge.tar.gz
 
 
 4) Go Inside the LobCodingChallenge folder to compile the project. Run below command for the same
