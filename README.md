@@ -41,6 +41,3 @@ Then do
 # In case of any problems.
 8) Please open this project in IDE and manually run LobApiHandler class Main function. This will automatically generate output files.
 
-
-# Shubham Gulati
-
